@@ -1,6 +1,12 @@
 ## Getting Started
 
-Welcome to the API testing word. Here is a guideline to help you get started to write API testing code.
+Welcome to the API testing word. Here is a guideline to help you get started to write API testing code to automate web services.
+
+We use:
+- Cucumber
+- Rest Assured
+- Java
+- Groovy
 
 ## Folder Structure
 
